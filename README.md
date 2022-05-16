@@ -3,7 +3,7 @@
 I do not take credit for this modules, I only compiled this repo for testing purposes, and I'm just trying to minimize the Reading<br/>
 
 ```ruby 
-#Installing reqs Only to be done once the its whole life, then you can Remark it with a "#"
+#Installing reqs Only to be done once its whole life, then you can Remark it with a "#"
 Install-Module -Name AzureAD ,  MSGraphFunctions, IntuneBackupAndRestore -Force
 
 Import-Module  -Name MSGraphFunctions, IntuneBackupAndRestore
