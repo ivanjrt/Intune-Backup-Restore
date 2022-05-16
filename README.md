@@ -1,7 +1,6 @@
 # Intune-Backup-Restore
 
-The following is some information I found from: <br/>
-I do not take credit for this, I only run this for testings purposes.<br/>
+I do not take credit for this, I only run this for testing purposes, and since I'm lazy I'm just trying to minimize the Reading<br/>
 
 ```ruby 
 #Installing reqs Only to be done once the its whole life, then you can Remark it with a "#"
@@ -34,4 +33,10 @@ Invoke-IntuneRestoreDeviceCompliancePolicy -Path "C:\temp\IntuneBackup-RevA"
 #Comparing revisions for backups
 Compare-IntuneBackupDirectories -Verbose -ReferenceDirectory "C:\temp\IntuneBackup-RevA" -DifferenceDirectory "C:\temp\IntuneBackup-RevB"
 ```
+
+<details><summary>for more info:</summary>
+<p>
+
+https://www.thelazyadministrator.com/2019/11/26/backup-and-restore-your-intune-configuration-using-powershell/
+</details>
 
