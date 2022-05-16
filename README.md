@@ -38,5 +38,6 @@ Compare-IntuneBackupDirectories -Verbose -ReferenceDirectory "C:\temp\IntuneBack
 <p>
 
 https://www.thelazyadministrator.com/2019/11/26/backup-and-restore-your-intune-configuration-using-powershell/
+https://github.com/jseerden/IntuneBackupAndRestore
 </details>
 
