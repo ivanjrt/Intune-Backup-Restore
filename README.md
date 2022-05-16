@@ -1,6 +1,6 @@
 # Intune-Backup-Restore
 
-I do not take credit for this modules, I only run this for testing purposes, and since I'm lazy I'm just trying to minimize the Reading<br/>
+I do not take credit for this modules, I only compiled this repo for testing purposes, and since I'm lazy I'm just trying to minimize the Reading<br/>
 
 ```ruby 
 #Installing reqs Only to be done once the its whole life, then you can Remark it with a "#"
